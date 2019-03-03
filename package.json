@@ -1,0 +1,16 @@
+{
+  "name": "academyapp",
+  "version": "1.0.0",
+  "dependencies": {},
+  "description": "prolog package",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "academyapp"
+  ],
+  "author": "Prolog",
+  "license": "ISC"
+}
